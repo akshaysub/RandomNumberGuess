@@ -1,5 +1,7 @@
 # RandomNumberGuess
 
+This project uses Java Swing to create a graphical user interface. It uses text field and buttons to ask the user for input. The user inputs a range of integers, and guesses what the random number generated is until the user gets it right.
+
 Screeshots of GUI
 ----------------
 
